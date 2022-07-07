@@ -1,6 +1,6 @@
 # leaflet-challenge
 
-In this repository, a map was created based on USGS earthquake data. The map shows all of the earthquakes around the world in the past 7 days.
+In this repository, a map was created based on USGS earthquake data using HTML and JavaScript with Leaflet. The map shows all of the earthquakes around the world in the past 7 days.
 
 The map has two base maps (Street and Topographic) as well as an overlay for the earthquakes which can be toggled on or off.
 
